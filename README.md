@@ -1,4 +1,4 @@
-# Google's ML Kit Flutter Plugin
+# Google's ML Barcode Scanner Flutter Plugin
 
 A Flutter plugin to use [Google's standalone ML Kit](https://developers.google.com/ml-kit) for Android and iOS.
 
