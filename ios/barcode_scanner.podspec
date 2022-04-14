@@ -3,15 +3,15 @@
 # Run `pod lib lint google_ml_kit.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'google_ml_kit'
+  s.name             = 'barcode_scanner'
   s.version          = '0.6.0'
-  s.summary          = 'Flutter Plugin for ML Kit'
+  s.summary          = 'Flutter Plugin for barcode scanner'
   s.description      = <<-DESC
-flutter plugin for google ml kit
+flutter plugin for barcode scanner
                        DESC
-  s.homepage         = 'https://github.com/bharat-biradar/Google-Ml-Kit-plugin'
+  s.homepage         = 'https://github.com/MarioJunio/flutter-barcode-scanner-plugin'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
+  s.author           = { 'Your Company' => 'dev.mario.93@gmail.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
