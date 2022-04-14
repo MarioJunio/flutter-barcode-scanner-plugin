@@ -140,13 +140,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "google_ml_kit",
+      "name": "barcode_scanner",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-04-14T12:52:03.345751Z",
+  "generated": "2022-04-14T14:27:23.857715Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }
