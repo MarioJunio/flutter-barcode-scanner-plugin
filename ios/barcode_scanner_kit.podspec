@@ -3,8 +3,8 @@
 # Run `pod lib lint google_ml_kit.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'barcode_scanner'
-  s.version          = '0.6.0'
+  s.name             = 'barcode_scanner_kit'
+  s.version          = '1.0.0'
   s.summary          = 'Flutter Plugin for barcode scanner'
   s.description      = <<-DESC
 flutter plugin for barcode scanner
