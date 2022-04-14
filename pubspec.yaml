@@ -1,6 +1,6 @@
-name: barcode_scanner
+name: barcode_scanner_kit
 description: A Flutter plugin to implement google's standalone ml kit made for mobile platform.
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/MarioJunio/flutter-barcode-scanner-plugin
 
 environment:

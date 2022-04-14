@@ -140,13 +140,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "barcode_scanner",
+      "name": "barcode_scanner_kit",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-04-14T14:27:23.857715Z",
+  "generated": "2022-04-14T17:04:45.386484Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }
