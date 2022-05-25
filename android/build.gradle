@@ -9,7 +9,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:4.0.1'
+        classpath 'com.android.tools.build:gradle:7.1.2'
     }
 }
 
@@ -24,7 +24,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 32
 
     defaultConfig {
         minSdkVersion 21
@@ -35,6 +35,8 @@ android {
 
 }
 dependencies {
-    implementation 'com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1'
-    implementation 'com.google.mlkit:barcode-scanning:17.0.0'
+//    implementation 'com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1'
+    implementation 'com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0'
+//    implementation 'com.google.mlkit:barcode-scanning:17.0.0'
+    implementation 'com.google.mlkit:barcode-scanning:17.0.2'
 }
